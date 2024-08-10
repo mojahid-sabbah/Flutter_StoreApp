@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "691081708098",
+    "project_id": "tstoreapp-58777",
+    "storage_bucket": "tstoreapp-58777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691081708098:android:bc40ec1d7df2beb5aea3db",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691081708098-tk0v7e4hr1plvlg2g183uhh14lq2s1qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD60aTG8BZqQOYv0XdTdm3lv8XFQ6XlfjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691081708098-tk0v7e4hr1plvlg2g183uhh14lq2s1qi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691081708098-lmlng7u59a3aofj9s20atvgm23egrlsl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tStore.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
